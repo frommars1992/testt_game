@@ -62,9 +62,7 @@
  * to mediate.
  */
 
-using System;
 using strange.framework.api;
-using UnityEngine;
 
 namespace strange.extensions.mediation.api
 {

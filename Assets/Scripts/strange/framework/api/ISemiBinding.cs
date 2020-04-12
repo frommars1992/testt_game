@@ -37,8 +37,6 @@
  * @see strange.framework.api.BindingConstraintType
  */
 
-using System;
-
 namespace strange.framework.api
 {
 	public interface ISemiBinding : IManagedList

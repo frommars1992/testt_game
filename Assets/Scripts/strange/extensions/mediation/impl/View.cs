@@ -169,7 +169,7 @@ namespace strange.extensions.mediation.impl
 					return;
 				}
 
-				string msg = (loopLimiter == LOOP_MAX) ?
+				string msg = (loopLimiter == LOOP_MAX) ?	
 					msg = "A view couldn't find a context. Loop limit reached." :
 						msg = "A view was added with no context. Views must be added into the hierarchy of their ContextView lest all hell break loose.";
 				msg += "\nView: " + view.ToString();

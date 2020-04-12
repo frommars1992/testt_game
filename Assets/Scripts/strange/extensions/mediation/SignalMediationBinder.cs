@@ -27,7 +27,6 @@ using strange.extensions.mediation.api;
 using strange.extensions.mediation.impl;
 using strange.extensions.reflector.api;
 using strange.extensions.signal.impl;
-using UnityEngine;
 
 namespace strange.extensions.mediation
 {

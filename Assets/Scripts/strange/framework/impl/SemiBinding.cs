@@ -22,7 +22,6 @@
  * @see strange.framework.api.ISemiBinding
  */
 
-using System;
 using strange.framework.api;
 
 namespace strange.framework.impl

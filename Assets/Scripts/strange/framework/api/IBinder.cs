@@ -35,7 +35,6 @@
  * @see strange.framework.api.IBinding
  */
 
-using System;
 using System.Collections.Generic;
 
 namespace strange.framework.api

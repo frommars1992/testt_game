@@ -40,8 +40,6 @@
  * Note that SemiBindings maintain lists, so RemoveKey, RemoveValue and RemoveName delete an entry from those lists.
  */
 
-using System;
-
 namespace strange.framework.api
 {
 	public interface IBinding
